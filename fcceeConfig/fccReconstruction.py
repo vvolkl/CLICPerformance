@@ -29,7 +29,7 @@ InitDD4hep.OutputLevel = WARNING
 InitDD4hep.ProcessorType = "InitializeDD4hep" 
 InitDD4hep.Parameters = {
 #                         "DD4hepXMLFile": ["/cvmfs/sw-nightlies.hsf.org/spackages4/fccdetectors/commit.ce0513d0aede0013813d9d2c6bff82a7c4f32233/x86_64-centos7-gcc8.3.0-opt/a653tmzprkncwqsp2lizf2popms6rytk/share/FCCDetectors/Detector/DetFCCeeCLD/compact/FCCee_o2_v02/FCCee_o2_v02.xml"],
-                        "DD4hepXMLFile": ["/cvmfs/sw-nightlies.hsf.org/spackages4/lcgeo/commit.4a5b6bb293ce5526ed23d14a3b5157a31326caf8/x86_64-centos7-gcc8.3.0-opt/pkbx4w7ydyrmjg2ik2zdduqmp76g7upk/share/lcgeo/compact/FCCee/compact/FCCee_o1_v04/FCCee_o1_v04.xml"],
+                        "DD4hepXMLFile": ["/cvmfs/sw-nightlies.hsf.org/spackages4/lcgeo/commit.4a5b6bb293ce5526ed23d14a3b5157a31326caf8/x86_64-centos7-gcc8.3.0-opt/pkbx4w7ydyrmjg2ik2zdduqmp76g7upk/share/lcgeo/compact/FCCee/compact/FCCee_o2_v01/FCCee_o2_v01.xml"],
                          "EncodingStringParameter": ["GlobalTrackerReadoutID"]
                          }
 
